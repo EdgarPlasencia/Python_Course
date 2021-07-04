@@ -5,13 +5,13 @@
 #A data type is an attribute of data which tells the compiler or interpreter how the programmer intends to use the data.
 #Un tipo de dato es un atributo de datos que le dice al compilador o intérprete cómo el programador pretende usar los datos.
 
-#Integer: These are the common numbers.
+#Integer: These are the integer numbers.
 #Floating-point number: These are used to reprecent a decimal number. Here we have the FLOAT and DOUBLE datay type.
 #Character: A single unit of information, based on ASCII code.
 #String: Sequense of characters, the most comon example or use are words and text.
 #Boolean: Data whit two posible values, true or false. 
 
-#Entero: Estos son los números comunes.
+#Entero: Estos son los números enteros.
 #Número de coma flotante: se utilizan para representar un número decimal. Aquí tenemos el tipo de datos FLOAT y DOUBLE.
 #Caracter: una sola unidad de información, basada en el código ASCII.
 #String: Secuencia de caracteres, el ejemplo o uso más común son las palabras y el texto.
