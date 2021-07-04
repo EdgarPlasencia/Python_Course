@@ -12,7 +12,7 @@
 #Boolean: Data whit two posible values, true or false. 
 
 #Entero: Estos son los números comunes.
-#Número de coma flotante: se utilizan para volver a repetir un número decimal. Aquí tenemos el tipo de datos FLOAT y DOUBLE.
+#Número de coma flotante: se utilizan para representar un número decimal. Aquí tenemos el tipo de datos FLOAT y DOUBLE.
 #Caracter: una sola unidad de información, basada en el código ASCII.
 #String: Secuencia de caracteres, el ejemplo o uso más común son las palabras y el texto.
 #Boolean: Datos con dos valores posibles, verdadero o falso.
